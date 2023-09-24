@@ -6,7 +6,7 @@ class AnimationTween extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('GeeksForGeeks'),
+        title: const Text('Geeks For Geeks'),
         backgroundColor: Colors.green,
       ),
       body: Center(
